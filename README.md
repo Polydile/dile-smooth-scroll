@@ -46,6 +46,10 @@ Is important to note that the component uses the Javascript native scroll API. I
 - **smoothElementScroll(element, top, left)**: Scrolls a section with it's own scrolling area to the top & left position.
 - **smoothElementScrollBy(element, top, left)**: Scrolls a section with it's own scrolling area by top & left values.
 
+## properties
+
+- **scrollToElementOnInit**: when the scrollToElementOnInit property is set with an element ID, during the initialization progress of the component the page will scroll to the position of the element ID configured.
+ 
 # Mixins
 
 In this package you will find mixins to implement the scrolling API into any component. We separate the scrolling API into two mixins because usually you need only one or other.
