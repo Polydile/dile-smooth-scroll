@@ -1,3 +1,7 @@
+# Moved
+
+**This package has moved** and is now available at [@dile/dile-smooth-scroll](https://github.com/Polydile/dile-components). Please update your dependencies. This repository is no longer maintained.
+
 # \<dile-smooth-scroll>
 
 Web Component to create smooth scrolls on the page document or in a element scrolling section. Based on LitElement.
@@ -20,7 +24,7 @@ npm i dile-smooth-scroll
 <dile-smooth-scroll id="scrollComponent"></dile-smooth-scroll>
 ```
 
-This component is not representational, actually provides a simple scroll API. So, you can call it's methods to create smooth scrolls in various ways. 
+This component is not representational, actually provides a simple scroll API. So, you can call it's methods to create smooth scrolls in various ways.
 
 For example:
 
@@ -49,7 +53,7 @@ Is important to note that the component uses the Javascript native scroll API. I
 ## properties
 
 - **scrollToElementOnInit**: when the scrollToElementOnInit property is set with an element ID, during the initialization progress of the component the page will scroll to the position of the element ID configured.
- 
+
 # Mixins
 
 In this package you will find mixins to implement the scrolling API into any component. We separate the scrolling API into two mixins because usually you need only one or other.
