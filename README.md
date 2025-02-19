@@ -1,6 +1,6 @@
 # Moved
 
-**This package has moved** and is now available at [@dile/dile-smooth-scroll](https://github.com/Polydile/dile-components). Please update your dependencies. This repository is no longer maintained.
+**This package has moved** and is now available at [Dile Components](https://dile-components.com/). Please update your dependencies. This repository is no longer maintained. 
 
 # \<dile-smooth-scroll>
 
